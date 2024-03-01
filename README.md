@@ -6,25 +6,40 @@ Following information is provided and following questions are asked by business:
 FlyingWhale Airline, a prominent (fictional) international airline, is seeking to enhance its business intelligence capabilities by
 analyzing Customer Flight Activity and Customer Loyalty History. The airline is committed to optimizing customer experience, understanding travel patterns, and maximizing the effectiveness of its loyalty programs.
 
-Data: You have access to two key datasets:
+Data: We have access to two key datasets:
 
 **1. Customer Flight Activity:**
+
 • Loyalty Number: A unique identifier for each customer's loyalty account.
+
 • Year and Month: Period details for analysis.
+
 • Flights Booked: Number of flights booked by the member during the period.
+
 • Flights with Companions: Number of flights booked with additional passengers.
+
 • Total Flights: Combined total of Flights Booked and Flights with Companions.
+
 • Distance: Flight distance traveled in kilometers during the period.
+
 • Points Accumulated: Loyalty points earned in the period.
+
 • Points Redeemed: Loyalty points redeemed during the period.
+
 • Dollar Cost Points Redeemed: Dollar equivalent for points redeemed in Canadian Dollars (CDN).
 
 **2. Customer Loyalty History:**
+
 • Loyalty Number: A unique identifier for each customer's loyalty account.
+
 • Demographics: Country, Province, City, Postal Code, Gender, Education, Salary, Marital Status.
+
 • Loyalty Card: Current loyalty card status
+
 • Customer Lifetime Value (CLV): Total invoice value for all flights ever booked by the member.
+
 • Enrollment Details: Enrollment Type (Standard / 2018 Promotion), Enrollment Year, Enrollment Month.
+
 • Cancellation Details: Cancellation Year and Month if applicable.
 
 **Business Scenarios**
