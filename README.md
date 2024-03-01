@@ -1,0 +1,2 @@
+# Flyingwhale-Airline-Flight-Activity-and-Customer-Insights-Dashboards
+This repository contains PowerBI file having dashboard where flight activity of an airline is determined based on different metrices. Moreover, insights from customers are also presented based on their flight activity, loyalty status and membership with the airline. Dashboard has interesting insights and recommendations for Flyingwhale.
