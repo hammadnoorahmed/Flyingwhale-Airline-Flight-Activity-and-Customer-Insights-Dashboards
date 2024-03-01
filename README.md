@@ -60,7 +60,7 @@ Tips:
 
   • Identify trends in Customer Lifetime Value (CLV) across loyalty segments.
 
-      Answer the question: Which credit card tier on average has customers with the highest Customer Lifetime Value?
+  Answer the question: Which credit card tier on average has customers with the highest Customer Lifetime Value?
 
 
 
